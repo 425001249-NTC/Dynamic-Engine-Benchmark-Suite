@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1792510567 source:c:\users\aspire\downloads\smartlibrary_transaction\linkedlistengine.cpp
+	"LinkedListEngine.h"
+	<iostream>
+	<iomanip>
+
+1792510567 c:\users\aspire\downloads\smartlibrary_transaction\linkedlistengine.h
+	"EntityModel.h"
+	<cstddef>
+
+1792510567 c:\users\aspire\downloads\smartlibrary_transaction\entitymodel.h
+	<string>
+
+1792513502 source:c:\users\aspire\downloads\smartlibrary_transaction\main.cpp
+	"EntityModel.h"
+	"LinkedListEngine.h"
+	"AuditStackModule.h"
+	"QueueEngine.h"
+	"SearchSortEngine.h"
+	"BenchmarkingSuite.h"
+	<ctime>
+	<iomanip>
+	<iostream>
+	<string>
+	<vector>
+
+1792511271 source:c:\users\aspire\downloads\smartlibrary_transaction\auditstackmodule.cpp
+	"AuditStackModule.h"
+
+1792510868 c:\users\aspire\downloads\smartlibrary_transaction\auditstackmodule.h
+	<iostream>
+	<string>
+	<stack>
+	"EntityModel.h"
+
+1792511271 source:c:\users\aspire\downloads\smartlibrary_transaction\queueengine.cpp
+	"QueueEngine.h"
+	<iostream>
+
+1792511271 c:\users\aspire\downloads\smartlibrary_transaction\queueengine.h
+	<string>
+
+1792512036 source:c:\users\aspire\downloads\smartlibrary_transaction\searchsortengine.cpp
+	"SearchSortEngine.h"
+
+1792512036 c:\users\aspire\downloads\smartlibrary_transaction\searchsortengine.h
+	<vector>
+
+1792513502 source:c:\users\aspire\downloads\smartlibrary_transaction\benchmarkingsuite.cpp
+	"BenchmarkingSuite.h"
+	<algorithm>
+	<chrono>
+	<fstream>
+	<iomanip>
+	<iostream>
+	<numeric>
+	<random>
+	<sstream>
+
+1792513502 c:\users\aspire\downloads\smartlibrary_transaction\benchmarkingsuite.h
+	"SearchSortEngine.h"
+	<cstddef>
+	<string>
+	<vector>
+
